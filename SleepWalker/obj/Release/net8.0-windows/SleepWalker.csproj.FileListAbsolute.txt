@@ -1,0 +1,17 @@
+D:\github\SleepWalker\SleepWalker\bin\Release\net8.0-windows\SleepWalker.exe
+D:\github\SleepWalker\SleepWalker\bin\Release\net8.0-windows\SleepWalker.deps.json
+D:\github\SleepWalker\SleepWalker\bin\Release\net8.0-windows\SleepWalker.runtimeconfig.json
+D:\github\SleepWalker\SleepWalker\bin\Release\net8.0-windows\SleepWalker.dll
+D:\github\SleepWalker\SleepWalker\bin\Release\net8.0-windows\SleepWalker.pdb
+D:\github\SleepWalker\SleepWalker\obj\Release\net8.0-windows\SleepWalker.Form1.resources
+D:\github\SleepWalker\SleepWalker\obj\Release\net8.0-windows\SleepWalker.Properties.Resources.resources
+D:\github\SleepWalker\SleepWalker\obj\Release\net8.0-windows\SleepWalker.csproj.GenerateResource.cache
+D:\github\SleepWalker\SleepWalker\obj\Release\net8.0-windows\SleepWalker.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\SleepWalker\SleepWalker\obj\Release\net8.0-windows\SleepWalker.AssemblyInfoInputs.cache
+D:\github\SleepWalker\SleepWalker\obj\Release\net8.0-windows\SleepWalker.AssemblyInfo.cs
+D:\github\SleepWalker\SleepWalker\obj\Release\net8.0-windows\SleepWalker.csproj.CoreCompileInputs.cache
+D:\github\SleepWalker\SleepWalker\obj\Release\net8.0-windows\SleepWalker.dll
+D:\github\SleepWalker\SleepWalker\obj\Release\net8.0-windows\refint\SleepWalker.dll
+D:\github\SleepWalker\SleepWalker\obj\Release\net8.0-windows\SleepWalker.pdb
+D:\github\SleepWalker\SleepWalker\obj\Release\net8.0-windows\SleepWalker.genruntimeconfig.cache
+D:\github\SleepWalker\SleepWalker\obj\Release\net8.0-windows\ref\SleepWalker.dll
