@@ -2,7 +2,7 @@
 
 SleepWalker is a lightweight Windows application that allows you to control your computer's sleep behavior easily from the system tray. With SleepWalker, you can prevent your computer from entering sleep mode or re-enable sleep mode with just a few clicks.
 
-![SleepWalker Icon](https://github.com/Squid2112/SleepWalker/SleepWalker.png)
+![SleepWalker Icon](https://github.com/Squid2112/SleepWalker/blob/main/SleepWalker.png)
 
 ## Table of Contents
 
